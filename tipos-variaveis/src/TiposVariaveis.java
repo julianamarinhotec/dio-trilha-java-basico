@@ -19,5 +19,9 @@ public class TiposVariaveis {
 
         int idade = 22;
             System.out.println(idade);
-    }
+
+     }
 }
+
+
+
